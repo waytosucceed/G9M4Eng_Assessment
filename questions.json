@@ -296,7 +296,7 @@
     "options": [
       { "text": "The scientist <u>observes</u> the data, <u>record</u> the results, and <u>publish</u> the findings." },
       { "text": "The scientist <u>observes</u> the data, <u>records</u> the results, and <u>publishes</u> the findings." },
-      { "text": "The scientist <u>observes</u> the data, <u>records</u> the results, and <u>publishes</u> the findings." },
+      { "text": "The scientist <u>observe</u> the data, <u>records</u> the results, and <u>publishes</u> the findings." },
       { "text": "The scientist <u>observes</u> the data, <u>record</u> the results, and <u>publish</u> the findings." }
     ],
     "answer": 1
